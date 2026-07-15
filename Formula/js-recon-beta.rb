@@ -1,5 +1,5 @@
 class JsReconBeta < Formula
-  desc "JavaScript reconnaissance tool for mapping API endpoints and analyzing client-side security (beta channel)"
+  desc "JavaScript recon tool for API mapping and client-side security analysis"
   homepage "https://js-recon.io"
   url "https://registry.npmjs.org/@shriyanss/js-recon/-/js-recon-1.3.1-beta.2.tgz"
   sha256 "11e7a8a00f4282de3b1ab2a20c0e73c6b3fa1d193abcb71c0d3f19c4a600eb6e"

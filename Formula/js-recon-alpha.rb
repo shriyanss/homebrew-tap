@@ -1,5 +1,5 @@
 class JsReconAlpha < Formula
-  desc "JavaScript reconnaissance tool for mapping API endpoints and analyzing client-side security (alpha channel)"
+  desc "JavaScript recon tool for API mapping and client-side security analysis"
   homepage "https://js-recon.io"
   url "https://registry.npmjs.org/@shriyanss/js-recon/-/js-recon-1.4.1-alpha.8.tgz"
   sha256 "f48ac837e38e16916d474c9a399a0fb3476e04df62b4c6adaceda4d26a91ff82"
